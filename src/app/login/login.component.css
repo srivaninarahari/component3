@@ -1,0 +1,11 @@
+
+/* input  and  button styles  added in login.html */
+
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+}
+button {
+    background-color: #008CBA;
+    color: white
+}
